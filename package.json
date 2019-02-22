@@ -6,8 +6,15 @@
     "react-scripts": "2.1.5"
   },
   "dependencies": {
+    "google-map-react": "^1.1.2",
+    "moment": "^2.24.0",
     "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "react-dom": "^16.8.2",
+    "react-moment": "^0.8.4",
+    "react-sound": "^1.2.0",
+    "react-timeago": "^4.4.0",
+    "react-voice-components": "^1.0.0",
+    "speak-tts": "^2.0.8"
   },
   "scripts": {
     "start": "react-scripts start",
